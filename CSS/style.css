@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    padding: 0;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.main{
+    width: 1440px;
+    height: 720px;
+    background-color: hsl(212, 45%, 89%);
+    margin: auto;
+    position: relative;
+}
+
+.card{
+    width: 250px;
+    height: 400px;
+    background-color: hsl(0, 0%, 100%);
+    position: absolute;
+    top: 150px;
+    left: 590px;
+    border-radius: 5%;
+}
+.QR-image{
+    width: 230px;
+    height: auto;
+    margin-top: 10px;
+    border-radius: 5%;
+}
+p{
+    font-size: 15px;
+    text-align: center;
+    padding: 5px;
+}
+.first-p{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    width: 170px;
+    margin: auto;
+}
+.second-p{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    width: 230px;
+    margin: auto;
+}
+
+.attribution{
+    margin: 100px;
+}
